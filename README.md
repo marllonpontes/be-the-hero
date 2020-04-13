@@ -1,10 +1,6 @@
 <h1 align="center">
-    <img alt="DevRadar" title="#bethehero" src=".github/bethehero.svg" width="200px" />
+    <img alt="BeTheHero" title="#bethehero" src=".github/bethehero.svg" width="200px" />
 </h1>
-
-<h4 align="center">
-  
-</h4>
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
