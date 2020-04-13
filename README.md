@@ -1,7 +1,10 @@
 <h1 align="center">
     <img alt="BeTheHero" title="#bethehero" src=".github/bethehero.svg" width="200px" />
+<<<<<<< HEAD
     <br>
     Alguma coisa
+=======
+>>>>>>> 5a98bdab5457839fc17e78bfc2356f1fd0249ba2
 </h1>
 
 <p align="center">
