@@ -1,5 +1,7 @@
 <h1 align="center">
     <img alt="BeTheHero" title="#bethehero" src=".github/bethehero.svg" width="200px" />
+    <br>
+    Alguma coisa
 </h1>
 
 <p align="center">
